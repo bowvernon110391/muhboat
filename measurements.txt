@@ -6,4 +6,28 @@ hull skirt      :   3209 cm2
 sail mast       :   1.5 m
 sail boom       :   min 40 cm
 jib club        :   min 30 cm (preferably thin bamboo insert)
-total pull dist (full boom + club) :   ~ 100 cm @ 70 cm
+total pull dist (full boom + club) :   ~ 100 cm @ 70 cm, decidedly 80 cm @ L attachment 40 + 15
+
+not yet designed:
+- boom vang (a simple knot should suffice I think, tied on the mast so it pivots along with it)
+- gooseneck
+- battens for main sail (thinned bamboo stripes, on on each side, glued on both ends so it retains its shape but while still being flexible)
+- batten pockets (simply plastic strip glued to the main sail)
+
+#Problems and Solutions
+Problem 1: need equal pull for different sized sails, hopefully adjustable
+Potential Solutions:
+- combine attachments point offsets with block and tackle system (so the jib pulls more to counteract main sail's pull)
+
+Problem 2:
+- using tackle reduces flexibility, since block and tackle only works straight
+Solutions:
+- spare the longest area for this to work, make sure it's smooth
+
+Problem 3: how long of a pull for the main rig. it depends on the sail ratio + attachment points of both sails
+Solutions:
+- since the sail ratio is 1 : 2.33 it seems that the jib will be attached at 15 cm from its pivot point, while the main sail will be attached at the end of its boom (approx. 40 cm)
+- now the pull distance becomes ~78 cm. round it up to 80 cm.
+therefore, the tackle is only needed under the deck for the winch
+
+- Alternatively, perhaps if I try to use multiple pulley along the boom
