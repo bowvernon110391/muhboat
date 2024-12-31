@@ -1,0 +1,9 @@
+jib sail area   :   1200 cm2
+main sail area  :   2800 cm2
+sail ratio      :   1 / 2.333
+deck area       :   1931 cm2
+hull skirt      :   3209 cm2
+sail mast       :   1.5 m
+sail boom       :   min 40 cm
+jib club        :   min 30 cm (preferably thin bamboo insert)
+total pull dist (full boom + club) :   ~ 100 cm @ 70 cm
